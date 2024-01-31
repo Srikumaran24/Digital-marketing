@@ -1,0 +1,45 @@
+<HTML>
+    <HEAD>
+        <TITLE>MYNTRA
+            <LINK rel="ICON" href="OIP.jpeg">
+        </TITLE>
+    </HEAD>
+    <BODY bgcolor="PINK" style="color: black;">
+        <CENTER>
+        <H1>MYNTRA SALE <br>
+           <H3>FREE SHOPPING|FREE DELIVER|FASION|</H3> 
+        </CENTER>
+    
+        <hr>
+       
+    
+    
+    
+    <H3> <P> Myntra is an Indian fashion e-commerce platform that allows users to shop for a wide range of clothing, footwear, accessories, and home decor products online. It was founded in 2007 and has since become one of the leading online fashion retailers in India.
+
+Myntra offers a diverse selection of products from various brands, both Indian and international. The platform provides a user-friendly interface, allowing customers to browse through different categories, filter products based on their preferences, and make secure online payments.
+
+In addition to its website, Myntra also has a mobile app, making it convenient for users to shop on the go. The platform often runs sales and promotions, providing discounts and special offers to attract customers.
+
+It's worth noting that my information is accurate up to my last knowledge update in January 2022, and there may have been changes or developments since then. If you have specific questions about Myntra's current offerings or any recent updates, I recommend checking their official website or contacting their customer support for the latest information.</P>  </BODY>
+      </H3>
+      <CENTER>
+      <img src="OIP (1).jpeg"><br>
+      <H2>FASION MENS WERE</H2>
+      </CENTER>
+      <body>
+       <H3> Myntra is a major Indian fashion e-commerce company headquartered in Bengaluru, Karnataka, India.[1] The company was founded in 2007-2008 to sell personalized gift items.[2][3][4][5] In May 2014, Myntra.com was acquired by Flipkart.[6][7][8][9]
+
+In May 2022, Myntra launched an express delivery service on its app to offer one of a kind of experience by fashion & beauty platform. This service allow shoppers to receive their orders for products marked with ‘M-express tag’ on the listing page within 24–48 hours of purchase.[10
+       </H3><HR>
+       <CENTER><H2>TO VISIT MYNTRA</H2>
+      <A href="https://www.myntra.com/men-tshirts">CLICK</A>
+       </CENTER>
+</body>
+      
+
+
+
+
+
+</HTML>
